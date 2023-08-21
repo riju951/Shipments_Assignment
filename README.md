@@ -2,8 +2,6 @@
 
 WeatherApp
 
-WeatherApp Banner
-
 WeatherApp is a simple and intuitive weather application that provides real-time weather information to users. This app allows users to quickly check the current weather conditions, as well as a 5-day forecast for any location around the world. It aims to deliver accurate weather data in a user-friendly interface.
 
 Features
@@ -17,10 +15,6 @@ Responsive Design: Enjoy a consistent user experience across different devices, 
 
 Intuitive UI: The app features a clean and intuitive user interface, making it accessible for users of all ages.
 
-Screenshots
-Screenshot 1
-Screenshot 2
-Screenshot 3
 
 Installation
 Clone the repository:
